@@ -37,6 +37,10 @@ Statamic has a Search results tag that will allow you to retrieve content based 
 {{ /search:results }}
 ```
 
+## The Search Query Form {#search-query-form}
+
+There’s no special search form tag that you need to use. Simply create a form that performs a GET request to where your results will be listed. Head over to the [Search form tag page](/tags/search-form) for more details.
+
 ## Drivers {#drivers}
 
 Statamic's search component comes loaded with a couple different drivers. You may specify which to use by adding the appropriate 
