@@ -98,7 +98,7 @@ variables:
 ---
 ## Overview {#overview}
 
-An overview on how to _configure_ search, indexing, and the query form can be found in the [Search Docs](/search).
+An overview on how to _configure_ search and indexing can be found in the [Search Docs](/search). An overview on the query form can be found [here](/tags/search-form).
 
 
 ## Example {#example}
